@@ -7,8 +7,8 @@
 ---
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_URL_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/Check_My_Portfolio-FF5733?style=for-the-badge&logo=vercel&logoColor=white&labelColor=24292F" alt="init4saurabh.vercel.app">
+  <a href="https://init4saurabh.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Check_My_Portfolio-FF5733?style=for-the-badge&logo=vercel&logoColor=white&labelColor=24292F" alt="Portfolio Link">
   </a>
 </p>
 
